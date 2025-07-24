@@ -4,7 +4,7 @@ using namespace std;
 
 // ------------- CONSTANTS AND STRUCTURES -------------
 
-const int maxCities = 5;                        // Maximum number of cities allowed
+const int maxCities = 100;                        // Maximum number of cities allowed
 const int positiveInfinity = 999999;            // Used as a substitute for 'infinite' distance
 
 // Structure to store each city's basic info
